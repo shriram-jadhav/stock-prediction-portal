@@ -111,7 +111,7 @@ stock-prediction-portal/
 
 ## Final Prediction Graph
 
-![Prediction](screenshots/prediction_example_4.png)
+![Prediction](screenshots/prediction_eg_4.png)
 
 ---
 
